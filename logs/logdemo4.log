@@ -1,0 +1,4 @@
+2022-06-28 09:36:15,055 DEBUG Log4j_Example [main] checking for division
+2022-06-28 09:36:15,061 INFO Log4j_Example [main] log captured
+2022-06-28 09:37:44,505 DEBUG Log4j_Example [main] checking for division
+2022-06-28 09:37:44,511 INFO Log4j_Example [main] log captured

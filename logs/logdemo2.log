@@ -1,0 +1,5 @@
+2022-06-27 11:05:11,620 DEBUG Log4j_Example [main] zerodivision
+2022-06-27 11:10:10,997 DEBUG Log4j_Example [main] checking for division
+2022-06-27 11:10:11,003 ERROR Log4j_Example [main] n2 value is 0
+2022-06-27 11:10:39,872 DEBUG Log4j_Example [main] checking for division
+2022-06-27 11:10:39,877 INFO Log4j_Example [main] logging error

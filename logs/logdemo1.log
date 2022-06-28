@@ -1,0 +1,16 @@
+2022-06-27 10:54:15,361 FATAL Log4j_Example [main] fatar error
+2022-06-27 10:54:15,365 ERROR Log4j_Example [main] Error
+2022-06-27 10:54:15,365 INFO Log4j_Example [main] info
+2022-06-27 10:54:15,365 WARN Log4j_Example [main] Warning
+2022-06-27 10:54:15,366 DEBUG Log4j_Example [main] debug
+2022-06-27 10:54:50,543 FATAL Log4j_Example [main] fatar error
+2022-06-27 10:54:50,547 ERROR Log4j_Example [main] Error
+2022-06-27 10:54:50,547 INFO Log4j_Example [main] info
+2022-06-27 10:54:50,547 WARN Log4j_Example [main] Warning
+2022-06-27 10:54:50,548 DEBUG Log4j_Example [main] debug
+2022-06-27 10:55:24,140 FATAL Log4j_Example [main] fatar error
+2022-06-27 10:55:24,146 ERROR Log4j_Example [main] Error
+2022-06-27 10:55:24,146 INFO Log4j_Example [main] info
+2022-06-27 10:55:24,202 WARN Log4j_Example [main] Warning
+2022-06-27 10:55:24,203 DEBUG Log4j_Example [main] debug
+2022-06-27 11:04:42,554 DEBUG Log4j_Example [main] zerodivision
